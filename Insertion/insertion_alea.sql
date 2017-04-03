@@ -1,0 +1,21 @@
+INSERT INTO ALEA VALUES (1,'coulée de boue',1,8);
+INSERT INTO ALEA VALUES (2,'incendie',10,10);
+INSERT INTO ALEA VALUES (3,'apocalypse',8,7);
+INSERT INTO ALEA VALUES (4,'incendie',9,8);
+INSERT INTO ALEA VALUES (5,'incendie',14,3);
+INSERT INTO ALEA VALUES (6,'sécheresse',6,5);
+INSERT INTO ALEA VALUES (7,'incendie',5,6);
+INSERT INTO ALEA VALUES (8,'raz-de-marée',28,7);
+INSERT INTO ALEA VALUES (9,'sécheresse',31,11);
+INSERT INTO ALEA VALUES (10,'sécheresse',20,12);
+INSERT INTO ALEA VALUES (11,'apocalypse',8,10);
+INSERT INTO ALEA VALUES (12,'coulée de boue',23,9);
+INSERT INTO ALEA VALUES (13,'sécheresse',17,1);
+INSERT INTO ALEA VALUES (14,'coulée de boue',4,2);
+INSERT INTO ALEA VALUES (15,'incendie',18,7);
+INSERT INTO ALEA VALUES (16,'apocalypse',2,3);
+INSERT INTO ALEA VALUES (17,'raz-de-marée',9,4);
+INSERT INTO ALEA VALUES (18,'apocalypse',4,10);
+INSERT INTO ALEA VALUES (19,'coulée de boue',30,9);
+INSERT INTO ALEA VALUES (20,'raz-de-marée',26,11);
+
