@@ -1,0 +1,11 @@
+INSERT INTO PARCELLE VALUES (1,'cepage1',500, 'granitique', 50, 50);
+INSERT INTO PARCELLE VALUES (2,'cepage2',1000, 'aride', 40, 85);
+INSERT INTO PARCELLE VALUES (3,'cepage6',5000, 'granitique', 20, 30);
+INSERT INTO PARCELLE VALUES (4,'cepage4',500, 'argilo-calcaire', 50, 20);
+INSERT INTO PARCELLE VALUES (5,'cepage5',1200, 'aride', 5, 35);
+INSERT INTO PARCELLE VALUES (6,'cepage6',800, 'aride', 80, 70);
+INSERT INTO PARCELLE VALUES (7,'cepage7',500, 'granitique', 10, 55);
+INSERT INTO PARCELLE VALUES (8,'cepage1',1500, 'schisteux', 90, 20);
+INSERT INTO PARCELLE VALUES (9,'cepage3',500, 'schisteux', 60, 40);
+INSERT INTO PARCELLE VALUES (10,'cepage5',4000, 'argilo-calcaire', 40, 90);
+INSERT INTO PARCELLE VALUES (11,'cepage2',3500, 'granitique', 50, 50)
